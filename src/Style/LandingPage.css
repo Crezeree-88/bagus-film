@@ -1,0 +1,49 @@
+.myBG {
+    height: 100vh;
+    background: url('../Assets/image/bg/bg1.jpg');
+    background-size: cover; 
+}
+
+.Intro {
+    height: 300px;
+    display: flex;
+    justify-content: end;
+    align-items: end;
+}
+
+.tittle {
+    font-size: 3rem;
+    font-weight: 800;
+    line-height: 1;
+    text-shadow: 2px 2px black;
+    letter-spacing: 4px;
+}
+
+.Tranding {
+    height: auto;
+    background: url('../Assets/image/bg/bg2.jpg');
+    background-size: cover; 
+}
+
+.movieWrapper {
+}
+
+.movieImage {
+    height: auto;
+    background-color: black;
+    margin: 5px;
+    padding: 5px;
+}
+
+.tranding {
+    height: 500px;
+}
+.superhero {
+    height: auto;
+    background: url('../Assets/image/bg/bg3.jpg');
+    background-size: cover; 
+}
+.SuperHero {
+    height: 500px;
+}
+/* sampai sini */
